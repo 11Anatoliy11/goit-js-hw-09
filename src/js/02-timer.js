@@ -90,7 +90,7 @@ function addLeadingZero(value) {
 }
 
 timerRef.style.cssText = `display: flex;
-  gap: 10px;
+  gap: 20px;
   font-size: 30px;
   font-weight: 600;
   `;
